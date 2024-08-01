@@ -31,5 +31,3 @@
 8- Configurar Github pages para visualizar el contenido del sitio web mediante un dominio 
 
 > Tutorial de Github pages recomendado: https://youtu.be/KQ3W1WgenDw?feature=shared&t=220
-
- 9- ( Opcional ) Enviar el enlace del repositorio como entrega en Google Classroom
