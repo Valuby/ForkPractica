@@ -31,3 +31,14 @@
 8- Configurar Github pages para visualizar el contenido del sitio web mediante un dominio 
 
 > Tutorial de Github pages recomendado: https://youtu.be/KQ3W1WgenDw?feature=shared&t=220
+
+9- Abrir una solicitd para un pull request mediante el metodo de contribución 
+
+![enter image description here](https://developer.servicenow.com/app_store_learnv2_devenvironment_washingtondc_sourcecontrol_images_servicenow_github_excreatepullrequest.png)
+
+10- Crear la solicitud
+
+![enter image description here](https://www.freecodecamp.org/news/content/images/2020/01/pullRequest-1.png)
+
+
+
